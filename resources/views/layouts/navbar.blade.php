@@ -1,6 +1,8 @@
 <header class="navbar">
     <div class="logo">
-        <img src="{{ asset('assets/img/logo.png') }}" alt="Logo" />
+    <a href="{{ url('/') }}">
+        <img src="{{ asset('assets/img/logo.png') }}" alt="Logo">
+    </a>
     </div>
 
     <!-- Hamburger Button -->

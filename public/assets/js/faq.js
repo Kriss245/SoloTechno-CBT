@@ -71,7 +71,7 @@ document.querySelectorAll(".detail-btn").forEach(btn => {
 
     // tunggu render, lalu scroll halus ke posisi yang pas
     setTimeout(() => {
-      const yOffset = -100; // atur sesuai tinggi navbar/header
+      const yOffset = -135; // atur sesuai tinggi navbar/header
       const y = faqAnswer.getBoundingClientRect().top + window.pageYOffset + yOffset;
       smoothScrollTo(y, 700); // durasi 700ms
     }, 0);

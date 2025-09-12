@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -8,7 +7,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="{{ asset('assets/img/logo.png') }}">
+    <link rel="icon" type="image/png" href="{{ asset('assets/img/logoatas.png') }}">
 </head>
 <body>
     @include('layouts.navbar')
@@ -34,7 +33,7 @@
     <section class="digital-section">
         <div class="digital-header">
             <h2>
-                <span class="highlight-biru">Pembelajaran</span> 
+                <span class="highlight-kuning">Pembelajaran</span> 
                 <span class="highlight-kuning">Digital</span> 
                 Lebih Praktis dan Berkualitas
             </h2>
@@ -177,5 +176,6 @@
     @include('layouts.banner1')
     @include('layouts.footer')
 <script src="{{ asset('assets/js/gif-popup.js') }}"></script>
+<script src="{{ asset('assets/js/landing.js') }}"></script>
 </body>
 </html>

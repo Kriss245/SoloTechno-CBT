@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Opsi Paket - SoloTechno CBT</title>
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+    <link rel="icon" type="image/png" href="{{ asset('assets/img/logoatas.png') }}">
 </head>
 <body>  
     <!-- Navbar -->
@@ -15,7 +16,7 @@
         <div class="banner-content">
             <h1>
                 <span class="highlight-kuning">Digitalisasi</span> Ujian Jadi Lebih <br>
-                Mudah dengan <span class="highlight-biru">SoloTechno-CBT</span>
+                Mudah dengan <span class="highlight-kuning">SoloTechno-CBT</span>
             </h1>
             <p>
                 Mulai dari paket gratis hingga premium, semua dirancang <br>
@@ -30,7 +31,7 @@
     <!-- Opsi Paket -->
     <section class="paket-section">
         <div class="container">
-            <h2 class="section-title">Opsi <span class="highlight-biru">Paket</span></h2>
+            <h2 class="section-title">Opsi <span class="highlight-kuning">Paket</span></h2>
             <p class="section-subtitle">
                 Temukan paket yang sesuai dengan kebutuhan Anda dan mulai belajar lebih efektif bersama SoloTechno-CBT
             </p>
@@ -76,7 +77,7 @@
             </div>
         </div>
     </section>
-    <section class="contact-cta fade-in">
+    <section class="contact-cta1 fade-in">
         <div class="container">
             <div class="contact-card1">
             <div class="contact-text">

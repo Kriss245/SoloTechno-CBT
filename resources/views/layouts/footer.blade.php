@@ -8,11 +8,7 @@
         <div class="footer-left">
             <img src="{{ asset('assets/img/footer.png') }}" alt="Logo SoloTechno CBT" class="footer-logo">
             <h3 class="footer-title">solotechno-cbt.com</h3>
-            <p class="footer-desc">
-                Solusi Computer Based Test <br>
-                yang mudah, aman, dan <br>
-                nyaman untuk instansi anda.
-            </p>
+            <p class="footer-desc">Solusi Computer Based Test <br> yang mudah, aman, dan <br> nyaman untuk instansi anda. </p>
         </div>
 
         <!-- Tengah -->
@@ -51,13 +47,10 @@
     <!-- Footer Bottom -->
     <div class="footer-bottom">
         <div class="footer-bottom-left">
-            <span>🌐 Indonesia</span>
-            <a href="#">Terms & privacy</a>
-            <a href="#">Security</a>
-            <a href="#">Status</a>
+            <p> Copyright © 2025 SoloTechno CBT. All Rights Reserved. </p>
         </div>
         <div class="footer-bottom-right">
-            <p>Copyright © 2025 SoloTechno CBT. All Rights Reserved.</p>
+            <p> Designed and Developed by <a href= "#"> MBKM UDB 2025 </a></p>
         </div>
     </div>
 </footer>
